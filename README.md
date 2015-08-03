@@ -1,5 +1,7 @@
 Table + AngularJS
 =================
+
+[![Join the chat at https://gitter.im/christianacca/ng-table](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianacca/ng-table?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/esvit/ng-table.png)](https://travis-ci.org/esvit/ng-table) [![Coverage Status](https://coveralls.io/repos/esvit/ng-table/badge.png)](https://coveralls.io/r/esvit/ng-table)
 
 Code licensed under New BSD License.
